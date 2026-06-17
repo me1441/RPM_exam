@@ -3,7 +3,7 @@ V-MODEL TESTING + PERFORMANCE + MEMORY PROFILING
 Блоки: Верификация | Валидация | Юзабилити | Нагрузка | Граничные | Производительность
 """
 
-import requests, sys, time, os, shutil, concurrent.futures, subprocess, psutil
+import requests, sys, time, os, shutil, concurrent.futures, subprocess, psutil # для вызова API, системная утилита, время, для нагрузочных тестов, запуска тестов и мониторинга памяти
 from datetime import datetime
 
 BASE_URL = "http://127.0.0.1:5000"
