@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 V-MODEL TESTING + DETAILED REPORT FOR TEACHER
 Автозапуск сервера, улучшенная диагностика, объяснения на русском
