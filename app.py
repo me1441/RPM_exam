@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Обработчик заказов - Flask Backend
 Сборка в exe: pyinstaller --onefile --windowed --add-data "templates;templates" --add-data "static;static" app.py
